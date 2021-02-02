@@ -1,16 +1,11 @@
-//*************************************************//
-//          INTHER LOGISTICS ENGINEERING           //
-//*************************************************//
-
+// Declaration of the package.
 package edu.tekwill.vehicles;
 
 /**
- *
+ * Java Documentation for a class goes here.
  */
 public class Car {
 
-  /*
-   dkfj
-   */
-  int a = 0;
+  // Body of a class.
+
 }
