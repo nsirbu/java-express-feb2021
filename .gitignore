@@ -1,0 +1,8 @@
+# Ignore the .idea folder and its content.
+.idea/
+
+# Ignore all the folders that have the name 'out'.
+out/
+
+# Ignore all the files with the extension '.iml'.
+*.iml
