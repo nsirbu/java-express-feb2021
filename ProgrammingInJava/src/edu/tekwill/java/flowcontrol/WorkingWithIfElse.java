@@ -1,4 +1,4 @@
-package edu.tekwill.java.ifelse;
+package edu.tekwill.java.flowcontrol;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author nsirbu
  * @since 02.02.2021
  */
-public class IfElseStatement {
+public class WorkingWithIfElse {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
